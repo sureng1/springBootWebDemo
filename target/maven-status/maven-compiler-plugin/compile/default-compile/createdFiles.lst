@@ -1,0 +1,8 @@
+com\demo\repository\UserRepositoty.class
+com\demo\entity\User.class
+com\demo\controlller\FirstServlet.class
+com\demo\service\UserService.class
+com\demo\configuration\Entry.class
+com\demo\configuration\JpaConfiguration.class
+com\demo\configuration\ServletInitializer.class
+com\demo\Student.class
